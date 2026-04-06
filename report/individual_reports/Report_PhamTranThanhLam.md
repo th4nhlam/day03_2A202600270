@@ -7,8 +7,8 @@
 ---
 
 ## I. Technical Contribution (15 Points)
-Provide API key
-Vibe coding and fix errors for generating v2 tools 
+**Gemini Comparision**: I have Gemini API, so I used it in order to compare with OpenAI model that my group are working on. And the result is the same, only different in word paraphrasing
+**Local model phi3 installation errors** Google the error log and install required depedencies and support my teammates for installing.
 
 ---
 
